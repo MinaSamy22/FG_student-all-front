@@ -13,7 +13,7 @@ pip install -r requirements.txt
 **3.open terminal of vscode to Run the AI**
 
 ```sh
-   python app.py
+python app.py
 ```
 
 **4.open another terminal of vscode to Run the server (Flask)**
