@@ -4,13 +4,13 @@
 **1. Download the folder named => (ats_ai+server+connected)**
   **# GO TO VS Code -> open inside it folder -> ats_ai + server + connected**
 
-**2.open terminal of vscode to Download the packages to run the AI**/n
+**2.open terminal of vscode to Download the packages to run the AI** =>> 
    pip install -r requirements.txt
    
-**2.open terminal of vscode to Run the AI**
+**2.open terminal of vscode to Run the AI** =>> 
    python app.py
 
-**3.open another terminal of vscode to Run the server (Flask)**
+**3.open another terminal of vscode to Run the server (Flask)** =>> 
   python server.py
    
   **# GO TO Android studio**
