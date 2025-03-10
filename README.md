@@ -10,11 +10,13 @@
 pip install -r requirements.txt
 ```
    
-**2.open terminal of vscode to Run the AI**
+**3.open terminal of vscode to Run the AI**
 
+```sh
    python app.py
+```
 
-**3.open another terminal of vscode to Run the server (Flask)**
+**4.open another terminal of vscode to Run the server (Flask)**
 
 ```sh
  python server.py
@@ -22,9 +24,9 @@ pip install -r requirements.txt
 
   **# GO TO Android studio**
 
-**4. 5od el lib bdlo bl lib al 3ndk howa ol yml ol assets**
+**5. 5od el lib bdlo bl lib al 3ndk howa ol yml ol assets**
 
-**5. 5osh el yml => pup get**    
+**6. 5osh el yml => pup get**    
 
 
   **Note**  
