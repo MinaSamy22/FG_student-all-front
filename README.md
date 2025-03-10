@@ -15,9 +15,10 @@ pip install -r requirements.txt
    python app.py
 
 **3.open another terminal of vscode to Run the server (Flask)**
-
+```sh
   python server.py
-   
+   ```
+
   **# GO TO Android studio**
 
 **4. 5od el lib bdlo bl lib al 3ndk howa ol yml ol assets**
