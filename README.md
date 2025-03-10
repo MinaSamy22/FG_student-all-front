@@ -1,10 +1,10 @@
-# Future Gate Application  (A2ro kol 7aga 2bl ma tpd2o tnfez)
-**To run the flutter App with AI    (Lw 7abb T test)**
+# Future Gate Application  (A2ro kol 7aga 2bl ma tpd2o tnfez)  
+**To run the flutter App with AI    (Lw 7abb T test)**  
 
-**1. Download the folder named => (ats_ai+server+connected)**
-  **# GO TO VS Code -> open inside it folder -> ats_ai + server + connected**
+**1. Download the folder named => (ats_ai+server+connected)**  
+  **# GO TO VS Code -> open inside it folder -> ats_ai + server + connected**  
 
-**2.open terminal of vscode to Download the packages to run the AI**
+**2.open terminal of vscode to Download the packages to run the AI**  
 
    pip install -r requirements.txt
    
