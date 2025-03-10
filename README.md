@@ -1,4 +1,4 @@
-# Future Gate Application
+# Future Gate Application  (A2ro kol 7aga 2bl ma tpd2o tnfez)
 **To run the flutter App with AI    (Lw 7abb T test)**
 
 **1. Download the folder named => (ats_ai+server+connected)**
@@ -21,7 +21,13 @@
 
 
   **Note**
-   bt3dl ip bta3 file server.py     7sp ip bta3 ghazk   // ipconfig a3mlha gowa terminal 34an t3rf your ip
+   # lazm t7ml al pip 34an lma t3ml    pip install -r requirements.txt megelak4 pip not recognized
+
+   # bt3dl ip bta3 file server.py     7sp ip bta3 ghazk   // ipconfig a3mlha gowa terminal 34an t3rf your ip
    
-   bt3dl satr 46 f ats_screen.dart  7sp ip bta3 ghazk
+   # bt3dl satr 46 f ats_screen.dart  7sp ip bta3 ghazk
+
+   # lw anta rabt firebase cli be android studio al auth he4t8l m3ak 3ade gedan lw msh rabto msh he4t8l
+
+
 
