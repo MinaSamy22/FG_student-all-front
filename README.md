@@ -6,8 +6,7 @@
 
 **2.open terminal of vscode to Download the packages to run the AI**  
 
-  ```sh
- pip install -r requirements.txt
+` pip install -r requirements.txt `
    
 **2.open terminal of vscode to Run the AI**
 
