@@ -4,7 +4,7 @@
 **1. Download the folder named => (ats_ai+server+connected)**
   **# GO TO VS Code -> open inside it folder -> ats_ai + server + connected**
 
-**2.open terminal of vscode to Download the packages to run the AI**
+**2.open terminal of vscode to Download the packages to run the AI**/n
    pip install -r requirements.txt
    
 **2.open terminal of vscode to Run the AI**
